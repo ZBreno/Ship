@@ -8,8 +8,7 @@ para guardar a tripulação que segue num determinado navio-cruzeiro. O programa
      a)   Lê os dados da tripulação de um navio-cruzeiro.
 
 
-     b)   Consulta se um dado tripulante x está no
-navio, onde x é o código do tripulante.
+     b)   Consulta se um dado tripulante x está no navio, onde x é o código do tripulante.
 
 
      c)   Se x for encontrado, mostra os seus dados.
